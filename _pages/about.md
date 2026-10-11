@@ -1,5 +1,5 @@
 ---
-layout: about(关于我)
+layout: about
 title: about(关于我)
 permalink: /
 subtitle: <a href='#'>Taylor's University</a>. Be humble, be wise.
@@ -26,6 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 I am a PhD researcher working at the intersection of nonlinear dynamics, complex systems, and intelligent systems. My research interests include memristive and 
 conservative chaos, energy-based dynamical analysis, reinforcement learning for robotics, and nonlinear and chaotic behaviors in large language models and neural networks. 
 I have experience in dynamical-system modeling, numerical simulation, and intelligent-system research.
