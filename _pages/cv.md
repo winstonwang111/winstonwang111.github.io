@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+cv_pdf: /assets/pdf/Winston_Wang_CV.pdf
 description: Education, professional experience, publications, and research interests / 教育背景、工作经历、论文发表与研究方向
 toc:
   sidebar: left
