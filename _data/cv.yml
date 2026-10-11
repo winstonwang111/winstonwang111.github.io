@@ -1,123 +1,91 @@
 cv:
-  name: Winston (Ze) Wang
-  label: Doctoral Researcher in Engineering
-  email: wangze_phd@163.com
-  location: Kuala Lumpur, Malaysia
-  summary: >
-    Doctoral researcher working at the intersection of nonlinear dynamics, conservative chaos,
-    energy-based analysis, and intelligent systems. Research interests include high-dimensional
-    conservative chaotic systems, reinforcement learning, and chaotic phenomena in the neural
-    networks underlying large language models. Professional experience includes banking risk
-    assessment, robotic process automation, and satellite-imagery-based post-loan monitoring.
-
-  social_networks:
-    - network: LinkedIn
-      username: winston-wang-065a472a9
-
+  name: Winston (Ze) Wang 王泽
   sections:
-    Education:
-      - institution: Taylor's University
-        location: Subang Jaya, Malaysia
-        area: Engineering
-        studyType: Doctoral degree (in progress)
-        highlights:
-          - "Expected graduation: October 2027."
-          - Modeling and analysis of high-dimensional conservative chaotic systems, including energy-based analysis.
-          - Reinforcement learning and chaotic phenomena in the neural networks underlying large language models.
+    Contact Information / 联系方式:
+      - label: Name / 姓名
+        details: Winston (Ze) Wang / 王泽
+      - label: Professional Title / 身份
+        details: Doctoral Researcher in Engineering / 工程博士研究生
+      - label: Email / 邮箱
+        details: wangze_phd@163.com
+      - label: Location / 所在地
+        details: Kuala Lumpur, Malaysia / 马来西亚吉隆坡
 
-      - institution: Tiangong University
-        location: Tianjin, China
-        area: Control Science and Engineering
-        studyType: Master's degree
-        start_date: 2018-09
-        end_date: 2021-03
-        highlights:
-          - Conservative chaotic system modeling and energy analysis.
-          - "Thesis: Analysis and circuit implementation of a conservative chaotic system based on a three-terminal memristor."
-
-      - institution: Tiangong University
-        location: Tianjin, China
-        area: Automation
-        studyType: Bachelor's degree
-        start_date: 2014-09
-        end_date: 2018-06
-        highlights:
-          - Focus on automation and control systems.
-
-    Experience:
-      - company: Industrial Bank Co., Ltd.
-        summary: Risk assessment, process automation, and technology-supported post-loan monitoring.
-        highlights:
-          - Assessed risks associated with individual and corporate customers.
-          - Applied robotic process automation (RPA) to banking workflows.
-          - Introduced satellite imagery and related technologies to improve post-loan monitoring and management of agricultural, photovoltaic, and wind-power projects.
-
-    Publications:
-      - title: Modeling and Analysis of a Three-Terminal-Memristor-Based Conservative Chaotic System
-        authors: [Ze Wang, Guoyuan Qi]
-        publisher: Entropy, 23(1), 71
-        releaseDate: "2021"
-        url: https://www.mdpi.com/1099-4300/23/1/71
-
-      - title: Rare Energy-Conservative Attractors on Global Invariant Hypersurfaces and Their Multistability
-        authors: [Jianbing Hu, Guoyuan Qi, Ze Wang, Guanrong Chen]
-        publisher: International Journal of Bifurcation and Chaos, 31(3), 2130007
-        releaseDate: "2021"
-        url: https://doi.org/10.1142/S021812742130007X
-
-      - title: Simulation and optimization of Flexsim shirt assembly line based on improved ant colony algorithm
-        authors: [Suning Zhang, Ze Wang, Dali Ma]
-        publisher: Journal of Textile Research, 42(3), 155–160
-        releaseDate: "2021"
-        url: https://doi.org/10.13475/j.fzxb.20200700606
-
-      - title: Modeling of a Hamiltonian conservative chaotic system and its mechanism routes from periodic to quasiperiodic, chaos and strong chaos
-        authors: [Guoyuan Qi, Jianbing Hu, Ze Wang]
-        publisher: Applied Mathematical Modelling, 78, 350–365
-        releaseDate: "2020"
-        url: https://www.sciencedirect.com/science/article/pii/S0307904X19305116
-
-    Skills:
-      - name: Nonlinear dynamics and control
-        keywords: "Conservative chaos, dynamical-system modeling, energy analysis, numerical simulation, automation"
-      - name: Intelligent systems and banking applications
-        keywords: "Reinforcement learning, large language models, risk assessment, RPA, satellite imagery, post-loan monitoring"
-
-    Interests:
-      - name: Future research directions
-        keywords: >
-          Deep energy and chaos analysis of large language models; exploring energy,
-          momentum, and manifold geometry as potential routes to improving large language models.
-
-    中文履历:
-      - label: 姓名与联系方式
-        details: 王泽（Winston / Ze Wang）；工程博士研究生；wangze_phd@163.com；马来西亚吉隆坡。
-      - label: 个人简介
-        details: >
-          从事非线性动力学、保守混沌、能量分析与智能系统的交叉研究。
+    Professional Summary / 个人简介:
+      - details: >
+          Doctoral researcher working at the intersection of nonlinear dynamics, conservative chaos,
+          energy-based analysis, and intelligent systems. Research interests include high-dimensional
+          conservative chaotic systems, reinforcement learning, and chaotic phenomena in the neural
+          networks underlying large language models. Professional experience includes banking risk
+          assessment, robotic process automation, and satellite-imagery-based post-loan monitoring.
+        translation: >
+          从事非线性动力学、保守混沌、能量分析与智能系统交叉研究的博士研究生。
           研究兴趣包括高维保守混沌系统、强化学习，以及大语言模型所使用的神经网络中的混沌现象。
           工作经历涉及银行风险评估、机器人流程自动化和卫星影像辅助贷后监测。
-      - label: 教育背景 — 博士
-        details: >
-          泰莱大学（Taylor's University），马来西亚梳邦再也；工程博士在读，预计2027年10月毕业。
-          专注于高维保守混沌系统建模与能量分析、强化学习，以及大语言模型神经网络中的混沌现象。
-      - label: 教育背景 — 硕士
-        details: >
-          天津工业大学，控制科学与工程硕士，2018年9月至2021年3月。
-          专注于保守混沌系统建模与能量分析。
-          硕士论文：基于三端忆阻器的保守混沌系统分析与电路实现。
-      - label: 教育背景 — 本科
-        details: 天津工业大学，自动化学士，2014年9月至2018年6月；专注于自动化与控制系统。
-      - label: 工作经历 — 兴业银行
-        details: >
-          开展个人和对公客户风险评估，应用机器人流程自动化（RPA）优化银行业务流程，
-          引入卫星影像等技术，优化农业、光伏和风电项目的贷后监测与管理。
-      - label: 论文发表
-        details: >
-          参与发表四篇期刊论文，涉及哈密顿保守混沌系统、三端忆阻器保守混沌系统、
-          能量保守吸引子及其多稳态，以及改进蚁群算法的流水线仿真优化。
-          正式论文题名、作者、期刊和链接见上方英文 Publications 栏目。
-      - label: 技能与研究方法
-        details: 保守混沌、动力系统建模、能量分析、数值仿真、自动化、强化学习、大语言模型、风险评估、RPA、卫星影像及贷后监测。
-      - label: 未来研究方向
-        details: 深入研究大语言模型的能量与混沌特性，尝试从能量、动量和流形几何的角度探索大语言模型的优化新路径。
+
+    Education / 教育背景:
+      - label: Taylor's University / 泰莱大学
+        details: "Doctoral degree in Engineering (in progress), Subang Jaya, Malaysia. Expected graduation: October 2027."
+        translation: 工程博士在读，马来西亚梳邦再也。预计2027年10月毕业。
+        highlights:
+          - english: Modeling and analysis of high-dimensional conservative chaotic systems, including energy-based analysis.
+            chinese: 高维保守混沌系统建模与分析，包括基于能量的分析。
+          - english: Reinforcement learning and chaotic phenomena in the neural networks underlying large language models.
+            chinese: 强化学习，以及大语言模型所使用的神经网络中的混沌现象。
+      - label: Tiangong University / 天津工业大学
+        details: Master's degree in Control Science and Engineering, Tianjin, China. September 2018–March 2021.
+        translation: 控制科学与工程硕士，中国天津，2018年9月至2021年3月。
+        highlights:
+          - english: Conservative chaotic system modeling and energy analysis.
+            chinese: 保守混沌系统建模与能量分析。
+          - english: "Thesis: Analysis and circuit implementation of a conservative chaotic system based on a three-terminal memristor."
+            chinese: 硕士论文：基于三端忆阻器的保守混沌系统分析与电路实现。
+      - label: Tiangong University / 天津工业大学
+        details: Bachelor's degree in Automation, Tianjin, China. September 2014–June 2018.
+        translation: 自动化学士，中国天津，2014年9月至2018年6月。
+        highlights:
+          - english: Focus on automation and control systems.
+            chinese: 专注于自动化与控制系统。
+
+    Experience / 工作经历:
+      - label: Industrial Bank Co., Ltd. / 兴业银行
+        details: Risk assessment, process automation, and technology-supported post-loan monitoring.
+        translation: 风险评估、流程自动化和技术辅助贷后监测。
+        highlights:
+          - english: Assessed risks associated with individual and corporate customers.
+            chinese: 开展个人和对公客户风险评估。
+          - english: Applied robotic process automation (RPA) to banking workflows.
+            chinese: 应用机器人流程自动化（RPA）优化银行业务流程。
+          - english: Introduced satellite imagery and related technologies to improve post-loan monitoring and management of agricultural, photovoltaic, and wind-power projects.
+            chinese: 引入卫星影像等技术，优化农业、光伏和风电项目的贷后监测与管理。
+
+    Publications / 论文发表:
+      - label: Modeling and Analysis of a Three-Terminal-Memristor-Based Conservative Chaotic System
+        translation: 三端忆阻器保守混沌系统的建模与分析（中文译名）。
+        details: Ze Wang, Guoyuan Qi. Entropy, 23(1), 71 (2021).
+        url: https://www.mdpi.com/1099-4300/23/1/71
+      - label: Rare Energy-Conservative Attractors on Global Invariant Hypersurfaces and Their Multistability
+        translation: 全局不变超曲面上的罕见能量保守吸引子及其多稳态（中文译名）。
+        details: Jianbing Hu, Guoyuan Qi, Ze Wang, Guanrong Chen. International Journal of Bifurcation and Chaos, 31(3), 2130007 (2021).
+        url: https://doi.org/10.1142/S021812742130007X
+      - label: Simulation and optimization of Flexsim shirt assembly line based on improved ant colony algorithm
+        translation: 基于改进蚁群算法的Flexsim衬衣流水线仿真优化。
+        details: Suning Zhang, Ze Wang, Dali Ma. Journal of Textile Research, 42(3), 155–160 (2021).
+        url: https://doi.org/10.13475/j.fzxb.20200700606
+      - label: Modeling of a Hamiltonian conservative chaotic system and its mechanism routes from periodic to quasiperiodic, chaos and strong chaos
+        translation: 哈密顿保守混沌系统的建模及其从周期到准周期、混沌和强混沌的机制路径（中文译名）。
+        details: Guoyuan Qi, Jianbing Hu, Ze Wang. Applied Mathematical Modelling, 78, 350–365 (2020).
+        url: https://www.sciencedirect.com/science/article/pii/S0307904X19305116
+
+    Skills / 技能与研究方法:
+      - label: Nonlinear dynamics and control / 非线性动力学与控制
+        details: Conservative chaos, dynamical-system modeling, energy analysis, numerical simulation, automation.
+        translation: 保守混沌、动力系统建模、能量分析、数值仿真与自动化。
+      - label: Intelligent systems and banking applications / 智能系统与银行应用
+        details: Reinforcement learning, large language models, risk assessment, RPA, satellite imagery, post-loan monitoring.
+        translation: 强化学习、大语言模型、风险评估、RPA、卫星影像及贷后监测。
+
+    Research Interests / 研究方向:
+      - label: Future research directions / 未来研究方向
+        details: Deep energy and chaos analysis of large language models; exploring energy, momentum, and manifold geometry as potential routes to improving large language models.
+        translation: 深入研究大语言模型的能量与混沌特性，尝试从能量、动量和流形几何的角度探索大语言模型的优化新路径。
