@@ -25,6 +25,7 @@ cv:
 
     Education / 教育背景:
       - label: Taylor's University / 泰莱大学
+        period: "2023-10 – Present / 至今 · Expected graduation / 预计毕业：2027-10"
         details: "Doctoral degree in Engineering (in progress), Subang Jaya, Malaysia. Expected graduation: October 2027."
         translation: 工程博士在读，马来西亚梳邦再也。预计2027年10月毕业。
         highlights:
@@ -33,22 +34,25 @@ cv:
           - english: Reinforcement learning and chaotic phenomena in the neural networks underlying large language models.
             chinese: 强化学习，以及大语言模型所使用的神经网络中的混沌现象。
       - label: Tiangong University / 天津工业大学
-        details: Master's degree in Control Science and Engineering, Tianjin, China. September 2018–March 2021.
-        translation: 控制科学与工程硕士，中国天津，2018年9月至2021年3月。
+        period: "2018-09 – 2021-03"
+        details: Master's degree in Control Science and Engineering, Tianjin, China.
+        translation: 控制科学与工程硕士，中国天津。
         highlights:
           - english: Conservative chaotic system modeling and energy analysis.
             chinese: 保守混沌系统建模与能量分析。
           - english: "Thesis: Analysis and circuit implementation of a conservative chaotic system based on a three-terminal memristor."
             chinese: 硕士论文：基于三端忆阻器的保守混沌系统分析与电路实现。
       - label: Tiangong University / 天津工业大学
-        details: Bachelor's degree in Automation, Tianjin, China. September 2014–June 2018.
-        translation: 自动化学士，中国天津，2014年9月至2018年6月。
+        period: "2014-09 – 2018-06"
+        details: Bachelor's degree in Automation, Tianjin, China.
+        translation: 自动化学士，中国天津。
         highlights:
           - english: Focus on automation and control systems.
             chinese: 专注于自动化与控制系统。
 
     Experience / 工作经历:
       - label: Industrial Bank Co., Ltd. / 兴业银行
+        period: "2021-12 – 2023-06"
         details: Risk assessment, process automation, and technology-supported post-loan monitoring.
         translation: 风险评估、流程自动化和技术辅助贷后监测。
         highlights:

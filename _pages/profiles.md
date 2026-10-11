@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: team
-description: Winston (Ze) Wang
+description: ""
 nav: true
 nav_order: 7
 
