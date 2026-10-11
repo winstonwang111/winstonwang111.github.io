@@ -2,7 +2,7 @@
 layout: about
 title: about(关于我)
 permalink: /
-subtitle: <a href='#'>Taylor's University</a>. Be humble, be wise.
+subtitle: Be humble, be wise.
 
 profile:
   align: right
