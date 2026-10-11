@@ -1,189 +1,123 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: Winston (Ze) Wang
+  label: Doctoral Researcher in Engineering
+  email: wangze_phd@163.com
+  location: Kuala Lumpur, Malaysia
+  summary: >
+    Doctoral researcher working at the intersection of nonlinear dynamics, conservative chaos,
+    energy-based analysis, and intelligent systems. Research interests include high-dimensional
+    conservative chaotic systems, reinforcement learning, and chaotic phenomena in the neural
+    networks underlying large language models. Professional experience includes banking risk
+    assessment, robotic process automation, and satellite-imagery-based post-loan monitoring.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: winston-wang-065a472a9
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Taylor's University
+        location: Subang Jaya, Malaysia
+        area: Engineering
+        studyType: Doctoral degree (in progress)
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Expected graduation: October 2027."
+          - Modeling and analysis of high-dimensional conservative chaotic systems, including energy-based analysis.
+          - Reinforcement learning and chaotic phenomena in the neural networks underlying large language models.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Tiangong University
+        location: Tianjin, China
+        area: Control Science and Engineering
+        studyType: Master's degree
+        start_date: 2018-09
+        end_date: 2021-03
         highlights:
-          - Description 1.
-          - Description 2.
+          - Conservative chaotic system modeling and energy analysis.
+          - "Thesis: Analysis and circuit implementation of a conservative chaotic system based on a three-terminal memristor."
+
+      - institution: Tiangong University
+        location: Tianjin, China
+        area: Automation
+        studyType: Bachelor's degree
+        start_date: 2014-09
+        end_date: 2018-06
+        highlights:
+          - Focus on automation and control systems.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Industrial Bank Co., Ltd.
+        summary: Risk assessment, process automation, and technology-supported post-loan monitoring.
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - Assessed risks associated with individual and corporate customers.
+          - Applied robotic process automation (RPA) to banking workflows.
+          - Introduced satellite imagery and related technologies to improve post-loan monitoring and management of agricultural, photovoltaic, and wind-power projects.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: Modeling and Analysis of a Three-Terminal-Memristor-Based Conservative Chaotic System
+        authors: [Ze Wang, Guoyuan Qi]
+        publisher: Entropy, 23(1), 71
+        releaseDate: "2021"
+        url: https://www.mdpi.com/1099-4300/23/1/71
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: Rare Energy-Conservative Attractors on Global Invariant Hypersurfaces and Their Multistability
+        authors: [Jianbing Hu, Guoyuan Qi, Ze Wang, Guanrong Chen]
+        publisher: International Journal of Bifurcation and Chaos, 31(3), 2130007
+        releaseDate: "2021"
+        url: https://doi.org/10.1142/S021812742130007X
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: Simulation and optimization of Flexsim shirt assembly line based on improved ant colony algorithm
+        authors: [Suning Zhang, Ze Wang, Dali Ma]
+        publisher: Journal of Textile Research, 42(3), 155–160
+        releaseDate: "2021"
+        url: https://doi.org/10.13475/j.fzxb.20200700606
+
+      - title: Modeling of a Hamiltonian conservative chaotic system and its mechanism routes from periodic to quasiperiodic, chaos and strong chaos
+        authors: [Guoyuan Qi, Jianbing Hu, Ze Wang]
+        publisher: Applied Mathematical Modelling, 78, 350–365
+        releaseDate: "2020"
+        url: https://www.sciencedirect.com/science/article/pii/S0307904X19305116
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
+      - name: Nonlinear dynamics and control
+        keywords: "Conservative chaos, dynamical-system modeling, energy analysis, numerical simulation, automation"
+      - name: Intelligent systems and banking applications
+        keywords: "Reinforcement learning, large language models, risk assessment, RPA, satellite imagery, post-loan monitoring"
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Future research directions
+        keywords: >
+          Deep energy and chaos analysis of large language models; exploring energy,
+          momentum, and manifold geometry as potential routes to improving large language models.
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    中文履历:
+      - label: 姓名与联系方式
+        details: 王泽（Winston / Ze Wang）；工程博士研究生；wangze_phd@163.com；马来西亚吉隆坡。
+      - label: 个人简介
+        details: >
+          从事非线性动力学、保守混沌、能量分析与智能系统的交叉研究。
+          研究兴趣包括高维保守混沌系统、强化学习，以及大语言模型所使用的神经网络中的混沌现象。
+          工作经历涉及银行风险评估、机器人流程自动化和卫星影像辅助贷后监测。
+      - label: 教育背景 — 博士
+        details: >
+          泰莱大学（Taylor's University），马来西亚梳邦再也；工程博士在读，预计2027年10月毕业。
+          专注于高维保守混沌系统建模与能量分析、强化学习，以及大语言模型神经网络中的混沌现象。
+      - label: 教育背景 — 硕士
+        details: >
+          天津工业大学，控制科学与工程硕士，2018年9月至2021年3月。
+          专注于保守混沌系统建模与能量分析。
+          硕士论文：基于三端忆阻器的保守混沌系统分析与电路实现。
+      - label: 教育背景 — 本科
+        details: 天津工业大学，自动化学士，2014年9月至2018年6月；专注于自动化与控制系统。
+      - label: 工作经历 — 兴业银行
+        details: >
+          开展个人和对公客户风险评估，应用机器人流程自动化（RPA）优化银行业务流程，
+          引入卫星影像等技术，优化农业、光伏和风电项目的贷后监测与管理。
+      - label: 论文发表
+        details: >
+          参与发表四篇期刊论文，涉及哈密顿保守混沌系统、三端忆阻器保守混沌系统、
+          能量保守吸引子及其多稳态，以及改进蚁群算法的流水线仿真优化。
+          正式论文题名、作者、期刊和链接见上方英文 Publications 栏目。
+      - label: 技能与研究方法
+        details: 保守混沌、动力系统建模、能量分析、数值仿真、自动化、强化学习、大语言模型、风险评估、RPA、卫星影像及贷后监测。
+      - label: 未来研究方向
+        details: 深入研究大语言模型的能量与混沌特性，尝试从能量、动量和流形几何的角度探索大语言模型的优化新路径。

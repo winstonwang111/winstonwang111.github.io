@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus(子菜单)
+title: submenus
 nav: false
 nav_order: 8
 dropdown: true
